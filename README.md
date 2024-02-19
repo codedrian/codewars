@@ -22,6 +22,6 @@
 │   └── ...
 ```
 #### Global Index:
-* 🚧[8 Kyu ](./8-kyu/)
+* 🚧 [8 Kyu ](./8-kyu/8-kyu.md)
 #### Notes
 * 🚧 Work in progress
